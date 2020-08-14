@@ -1,0 +1,15 @@
+*.dll
+build/
+bin/
+include/
+lib/
+*.o
+*.d
+*.exe
+log.txt
+*.code-workspace
+.vscode/
+.VSCodeCounter/
+*.hpp.gch
+src/sfmlpch.hpp.gch
+.gdbinit
